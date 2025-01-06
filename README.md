@@ -24,7 +24,7 @@ A visually pleasing design using creative fonts and background colors.
 Simple and clean layout principles.
 <br><br><br>
 
-#Tools & Technologies
+#Tools & Technologies<br>
 Languages: HTML, CSS, JavaScript.
 Design Principles: Responsive design, color theory, typography, and grid layouts.
 Best Practices: Code structuring, commenting, and optimizing for accessibility.
@@ -32,13 +32,13 @@ Best Practices: Code structuring, commenting, and optimizing for accessibility.
 
 #Repository Structure
 plaintext
-Copy code
+Copy code<br>
 /
-├── landing-page/         # Task 1: Landing Page Project Files
-├── portfolio/            # Task 2: Portfolio Project Files
-└── tribute-page/         # Task 3: Tribute Page Project Files
+├── landing-page/         # Task 1: Landing Page Project Files<br>
+├── portfolio/            # Task 2: Portfolio Project Files<br>
+└── tribute-page/         # Task 3: Tribute Page Project Files<br>
 
 <br><br><br>
-#Contact
+#Contact<br>
 Feel free to reach out with any questions or feedback:
 Email: rohanyshinde07@gmail.com
