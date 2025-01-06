@@ -2,7 +2,7 @@
 This repository contains tasks completed during my web devlopment internship at Cod soft (Dec 2024-Jan 2025),focusing on HTML,CSS,JS across 3 tasks. 
 
 <hr>
-#Projects Overview<br>
+#Projects Overview<br><br>
 1. Landing Page
 A beginner-friendly project focusing on creating a visually appealing and user-friendly landing page. Key learnings include:
 Creating columns and sections.
