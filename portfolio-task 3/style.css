@@ -1,0 +1,139 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    line-height: 1.6;
+
+        background-image: url("image.png");
+      
+}
+
+header {
+background-color: #000000;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+p.a {
+    font-family: "Times New Roman", Times, serif;
+  }
+header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+}
+
+header p {
+    margin-top: 10px;
+    font-size: 1.2rem;
+}
+
+section {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+   text-align: center;
+    color:rgb(0, 0, 0) ;
+}
+
+#about img{
+
+    max-height: 300px;
+
+    margin-bottom: 10px;
+    position:relative;
+    top:0;
+   
+    width:250px;
+   
+    
+}
+div {
+    width: 500px;
+    border: 5px solid rgb(4, 4, 4);
+    padding: 50px;
+    margin: 10px;
+    background-color: #000000;
+    color: #f7f6f6;
+  }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+h2{
+    text-align: center;
+}
+
+   
+   
+
+
+#skills ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#skills ul li {
+    background: #f7f6f6;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+.button {
+    background-color: #fafefd; /* Green */
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    float: left;
+    border:1px solid black;
+  }
+
+
+#projects .project {
+    margin-bottom: 10px;
+}
+
+#projects img {
+    max-width: 100%;
+    border-radius: 5px;
+}
+img {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 10px;
+    width: 400px;
+    height: 275px;
+  }
+
+#resume a {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 15px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+#resume a:hover {
+    background-color: #0056b3;
+}
+
+#contact p {
+    margin: 5px 0;
+}
+
+footer {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    margin-top: 20px;
+}
