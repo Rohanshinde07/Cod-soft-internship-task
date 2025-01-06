@@ -25,8 +25,8 @@ Simple and clean layout principles.
 <br><br><br>
 
 #Tools & Technologies<br>
-Languages: HTML, CSS, JavaScript.
-Design Principles: Responsive design, color theory, typography, and grid layouts.
+Languages: HTML, CSS, JavaScript.<br>
+Design Principles: Responsive design, color theory, typography, and grid layouts.<br>
 Best Practices: Code structuring, commenting, and optimizing for accessibility.
 <br><br><br>
 
