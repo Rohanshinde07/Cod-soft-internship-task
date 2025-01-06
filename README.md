@@ -33,7 +33,7 @@ Best Practices: Code structuring, commenting, and optimizing for accessibility.
 #Repository Structure
 plaintext
 Copy code<br>
-/
+
 ├── landing-page/         # Task 1: Landing Page Project Files<br>
 ├── portfolio/            # Task 2: Portfolio Project Files<br>
 └── tribute-page/         # Task 3: Tribute Page Project Files<br>
